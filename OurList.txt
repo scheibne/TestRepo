@@ -1,0 +1,4 @@
+This is our list. We need to:
+
+Automate thumbnail process
+Load our program onto a server
