@@ -2,3 +2,7 @@ This is our list. We need to:
 
 Automate thumbnail process
 Load our program onto a server
+
+Lynus:
+Figure our how to load orbit fitting code
+Install Easyaccess
